@@ -3,6 +3,5 @@ body {
 }
 
 #snoopy {
-  position:relative; 
-  left:0px;
+  position:left;
 }
